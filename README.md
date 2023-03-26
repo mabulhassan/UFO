@@ -5,9 +5,9 @@ The UFO sightings project is intended to display a dynamic webpage with all sigh
 
 ## Results:
 The data is displayed on one page and has no specific order. The user needs to scroll down to view remaining records. The data includes dates for 1/1/2010 and 1/13/2010 and is not current.
-![Pic 1]([https://github.com/mabulhassan/UFO/tree/main/static/images/results.PNG)
+![Pic 1](https://github.com/mabulhassan/UFO/blob/main/static/images/results.png)
 Multiple filters are shown on the right side of the page and can be used to locate specific records based on the selected criteria. Multiple filters can be selected at the same time to view results.
-![Pic 1]([https://github.com/mabulhassan/UFO/tree/main/static/images/filters.PNG)
+![Pic 1](https://github.com/mabulhassan/UFO/blob/main/static/images/filters.png)
 
 ## Summary: 
 
